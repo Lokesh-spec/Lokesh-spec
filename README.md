@@ -17,26 +17,20 @@ I design systems that are:
 
 ---
 
-## ⚙️ Tech Stack
+<h2>🧰 Tools & Technologies</h2>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+  <img src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlebigquery" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlecloud" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+  
+</p>
 
-**Cloud**  
-GCP, GCS, Pub/Sub
-
-**Data Processing**  
-Dataflow, PySpark
-
-**Orchestration**  
-Airflow / Cloud Composer
-
-**Data Warehouse**  
-BigQuery
-
-**Modeling**  
-Star Schema, SCD, Incremental Loads
-
-**Quality & Reliability**  
-Data validation, reconciliation, audit columns
-
+<hr/>
 ---
 
 ## 🚀 Featured Projects
