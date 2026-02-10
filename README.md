@@ -1,10 +1,7 @@
 # Hi, I'm Lokesh K V 👋
 **Data Engineer | BigQuery | Airflow | Dataflow | GCP**
 
-I build scalable, reliable, and production-grade data platforms.
-
-I enjoy solving problems around data correctness, incremental
-processing, orchestration, and warehouse design.
+Data Engineer focused on building scalable, reliable, and cost-efficient data platforms. I design and implement end-to-end data pipelines—from ingestion and transformation to analytics—using GCP services such as Cloud Storage, Cloud Functions, Dataflow, Airflow, and BigQuery.
 
 ---
 
