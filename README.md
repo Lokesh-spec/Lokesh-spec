@@ -31,7 +31,6 @@ I design systems that are:
 </p>
 
 <hr/>
----
 
 ## 🚀 Featured Projects
 
