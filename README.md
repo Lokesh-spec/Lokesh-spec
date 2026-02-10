@@ -1,4 +1,4 @@
-# Hi, I'm Loki 👋
+# Hi, I'm Lokesh K V 👋
 **Data Engineer | BigQuery | Airflow | Dataflow | GCP**
 
 I build scalable, reliable, and production-grade data platforms.
