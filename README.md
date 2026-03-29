@@ -1,61 +1,85 @@
-# Hi, I'm Lokesh K V 👋
-**Data Engineer | BigQuery | Airflow | Dataflow | GCP**
+# Hi, I'm Lokesh K V 👋  
+**Data Engineer | GCP (BigQuery) | Airflow | dbt | Scalable Data Platforms**
 
-Data Engineer focused on building scalable, reliable, and cost-efficient data platforms. I design and implement end-to-end data pipelines—from ingestion and transformation to analytics—using GCP services such as Cloud Storage, Cloud Functions, Dataflow, Airflow, and BigQuery.
+Data Engineer with 5+ years of experience building **scalable, reliable, and analytics-driven data systems** on Google Cloud Platform.
+
+I design and implement **end-to-end ELT pipelines** — from ingestion to transformation to analytics — using tools like **Airflow, BigQuery, dbt, and Python**, with a strong focus on **data modeling, performance, and cost efficiency**.
 
 ---
 
 ## 🧠 Engineering Focus
 
-I design systems that are:
+I build systems that are:
 
 ✔ time-window driven  
-✔ idempotent  
-✔ reproducible  
-✔ observable  
-✔ cost-efficient  
+✔ incremental & idempotent  
+✔ reproducible and testable  
+✔ observable and reliable  
+✔ optimized for cost and performance  
 
 ---
 
-<h2>🧰 Tools & Technologies</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
-  <img src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/googlebigquery" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/googlecloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-  
-</p>
+## 🧰 Tools & Technologies
 
-<hr/>
+- **Languages**: Python, SQL (Advanced Analytical SQL)  
+- **Orchestration**: Apache Airflow (Astro)  
+- **Transformation**: dbt (Data Build Tool)  
+- **Data Warehouse**: BigQuery  
+- **Cloud**: Google Cloud Platform (GCS, Cloud Functions)  
+- **Processing**: Dataflow (Apache Beam)  
+- **Containers**: Docker  
+
+---
 
 ## 🚀 Featured Projects
 
-🔹 End-to-End Batch Data Platform  
-GCS → Dataflow → BigQuery → transformations → analytics.
+### 🔹 RetailPulse Analytics (Latest)
+End-to-end ELT pipeline for near real-time e-commerce inventory analytics:
 
-🔹 Realtime Analytics Pipeline  
-Streaming ingestion with windowing and deduplication.
+- API → Airflow → GCS → BigQuery → dbt  
+- Implemented **incremental processing + star schema modeling**  
+- Built **inventory risk, demand signals, and supplier analytics**  
+- Orchestrated workflows using **Airflow + dbt integration**
 
-🔹 BigQuery Warehouse Design  
-Dimensional models, partitioning, MERGE strategies.
+---
 
-🔹 Advanced SQL & Performance  
-Optimization, pruning, scalable query patterns.
+### 🔹 Batch Data Platform
+Designed scalable batch pipelines:
+
+- GCS → Dataflow → BigQuery  
+- Window-based processing and transformation pipelines  
+
+---
+
+### 🔹 BigQuery Warehouse Design
+- Dimensional modeling (fact + dimension)  
+- Partitioning, clustering, and MERGE strategies  
+- Performance optimization for large datasets  
+
+---
+
+### 🔹 Advanced SQL Engineering
+- Query optimization  
+- Cost-efficient data processing  
+- Scalable analytical patterns  
 
 ---
 
 ## 📚 Currently Growing In
 
-• Large-scale data system design  
-• Performance & cost optimization  
-• Production observability  
-• Advanced orchestration patterns  
+- Advanced data modeling (SCD Type 2, snapshots)  
+- dbt advanced features (macros, testing, documentation)  
+- Production-grade orchestration patterns  
+- Performance and cost optimization at scale  
 
 ---
 
-I'm always interested in discussing data engineering,
-architecture, and scalable analytics platforms.
+## 💬 Let’s Connect
+
+I enjoy discussing:
+
+- Data engineering architecture  
+- Scalable data platforms  
+- Analytics system design  
+
+Always open to learning, collaboration, and new opportunities 🚀
