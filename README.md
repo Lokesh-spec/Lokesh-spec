@@ -97,4 +97,4 @@ Always open to discussing data engineering architecture,
 scalable pipeline design, and new opportunities 🚀
 
 📧 kvlokesh18@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/lokesh-k-v-2130791a8/)
