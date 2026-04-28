@@ -13,11 +13,11 @@ on data quality, pipeline reliability, and cost efficiency.
 
 I build systems that are:
 
-✔ incremental & idempotent
-✔ deduplicated and reliable
-✔ partitioned and cost-efficient
-✔ reproducible across environments
-✔ observable and production-grade
+- ✔ incremental & idempotent
+- ✔ deduplicated and reliable
+- ✔ partitioned and cost-efficient
+- ✔ reproducible across environments
+- ✔ observable and production-grade
 
 ---
 
