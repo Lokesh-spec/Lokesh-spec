@@ -1,9 +1,11 @@
-# Hi, I'm Lokesh K V 👋  
-**Data Engineer | GCP (BigQuery) | Airflow | dbt | Scalable Data Platforms**
+# Hi, I'm Lokesh K V 👋
+**Data Engineer | GCP · BigQuery · Python · SQL · dbt**
 
-Data Engineer with 5+ years of experience building **scalable, reliable, and analytics-driven data systems** on Google Cloud Platform.
-
-I design and implement **end-to-end ELT pipelines** — from ingestion to transformation to analytics — using tools like **Airflow, BigQuery, dbt, and Python**, with a strong focus on **data modeling, performance, and cost efficiency**.
+Data Engineer with hands-on experience building end-to-end pipelines,
+scalable data models, and analytics-ready transformations on Google Cloud
+Platform. I work across the full data chain — from raw ingestion and
+transformation through to business-ready insights — with a strong focus
+on data quality, pipeline reliability, and cost efficiency.
 
 ---
 
@@ -11,75 +13,88 @@ I design and implement **end-to-end ELT pipelines** — from ingestion to transf
 
 I build systems that are:
 
-✔ time-window driven  
-✔ incremental & idempotent  
-✔ reproducible and testable  
-✔ observable and reliable  
-✔ optimized for cost and performance  
+✔ incremental & idempotent
+✔ deduplicated and reliable
+✔ partitioned and cost-efficient
+✔ reproducible across environments
+✔ observable and production-grade
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Languages**: Python, SQL (Advanced Analytical SQL)  
-- **Orchestration**: Apache Airflow (Astro)  
-- **Transformation**: dbt (Data Build Tool)  
-- **Data Warehouse**: BigQuery  
-- **Cloud**: Google Cloud Platform (GCS, Cloud Functions)  
-- **Processing**: Dataflow (Apache Beam)  
-- **Containers**: Docker  
+**Cloud Platform**
+- ☁️ Google Cloud Platform
+- 🏗️ BigQuery — data warehouse, partitioning, clustering
+- 🪣 Cloud Storage (GCS) — raw & staging data lake
+- ⚡ Cloud Functions — event-driven pipeline triggers
+- 🕐 Scheduled Queries — lightweight pipeline automation
+
+**Transformation & Modeling**
+- 🔁 dbt Core — incremental models, MERGE strategy, star schema
+- 📊 Dataform — SQL workflow orchestration on BigQuery
+- 🐍 Python — ETL, data processing, pipeline scripting
+- 🧮 SQL (Analytical SQL) — window functions, CTEs, optimization
+
+**Orchestration**
+- 🌬️ Apache Airflow (Astro) — workflow orchestration
+- 🔀 GitLab CI/CD — multi-environment pipeline promotion
+
+**Domain Expertise**
+- 🚗 Automotive Procurement Analytics (BOM, Delta BOM, ECR, CCM, Claims)
+- 🚕 Urban Transportation Analytics (Chicago taxi trip data)
+- 📡 IoT Metrics Processing (device performance, uptime, telemetry)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 RetailPulse Analytics (Latest)
-End-to-end ELT pipeline for near real-time e-commerce inventory analytics:
+### 🔹 Urban Transportation Analytics
+Production-grade ELT pipeline on GCP ingesting Chicago taxi trip data:
 
-- API → Airflow → GCS → BigQuery → dbt  
-- Implemented **incremental processing + star schema modeling**  
-- Built **inventory risk, demand signals, and supplier analytics**  
-- Orchestrated workflows using **Airflow + dbt integration**
-
----
-
-### 🔹 Batch Data Platform
-Designed scalable batch pipelines:
-
-- GCS → Dataflow → BigQuery  
-- Window-based processing and transformation pipelines  
+- ☁️ **Ingestion** → GCS → BigQuery raw layer
+- 🔁 **Modeling** → dbt incremental model with star schema
+  (fact + dimension tables)
+- 🧹 **Deduplication** → MERGE strategy with ROW_NUMBER CTE
+  and 7-day lookback watermark
+- 🏗️ **Optimization** → BigQuery partitioning, clustering,
+  and require_partition_filter=True
+- 🔀 **CI/CD** → Two-repo GitLab setup across dev, staging,
+  and prod environments
 
 ---
 
-### 🔹 BigQuery Warehouse Design
-- Dimensional modeling (fact + dimension)  
-- Partitioning, clustering, and MERGE strategies  
-- Performance optimization for large datasets  
+## 💼 Professional Work
 
----
+### 🏢 Tata Consultancy Services — Data Engineer (Oct 2023 – Present)
+Building automotive procurement analytics pipelines on GCP:
 
-### 🔹 Advanced SQL Engineering
-- Query optimization  
-- Cost-efficient data processing  
-- Scalable analytical patterns  
+- 🔩 Delta BOM analysis across multiple vehicle programs
+- 📋 Supplier claims automation — reduced manual effort by 70%+
+- 📈 2Y/5Y cost benchmarking frameworks
+- 🚘 Real-world average car cost estimation models
+
+### 🏢 Bigtec Private Limited — Python ETL Developer (Oct 2020 – Sep 2023)
+- 🔄 Built Python ETL workflows moving structured data MySQL → MongoDB
+- 📡 Built IoT metrics transformation layer using Python & Pandas
+  (device performance, uptime, operational telemetry)
+- 🧹 Data cleaning, normalization, and transformation pipelines
 
 ---
 
 ## 📚 Currently Growing In
 
-- Advanced data modeling (SCD Type 2, snapshots)  
-- dbt advanced features (macros, testing, documentation)  
-- Production-grade orchestration patterns  
-- Performance and cost optimization at scale  
+- 🧠 Advanced data modeling (SCD Type 2, snapshots)
+- 🧪 dbt macros, testing, and documentation
+- 🏛️ System design for large-scale data platforms
+- 🤖 ML pipeline integration (currently attending ML bootcamp)
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Let's Connect
 
-I enjoy discussing:
+Always open to discussing data engineering architecture,
+scalable pipeline design, and new opportunities 🚀
 
-- Data engineering architecture  
-- Scalable data platforms  
-- Analytics system design  
-
-Always open to learning, collaboration, and new opportunities 🚀
+📧 kvlokesh18@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
