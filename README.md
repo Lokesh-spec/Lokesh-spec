@@ -1,5 +1,5 @@
 # Hi, I'm Lokesh K V 👋
-**Data Engineer | GCP · BigQuery · Python · SQL · dbt · RAG · GenAI**
+**Data Engineer | GCP · BigQuery · Python · SQL · dbt · RAG · GenAI · RAG**
 
 Data Engineer with hands-on experience building end-to-end pipelines,
 scalable data models, and analytics-ready transformations on Google Cloud
